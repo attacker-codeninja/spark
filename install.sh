@@ -147,6 +147,7 @@ git clone https://github.com/xnl-h4ck3r/waymore.git ~/tools/waymore
 git clone https://github.com/xnl-h4ck3r/xnLinkFinder.git ~/tools/xnlinkfinder
 } > /dev/null 2>&1
 echo "${BLUE}You now have the authority to seize control of the entire world!${RESET}"
+echo ""
 
 echo "${GREEN}[+] Downloading wordlists ${RESET}"
 echo "${BLUE}Download speed depends on your internet connection${RESET}"
