@@ -172,6 +172,8 @@ wget "https://wordlists-cdn.assetnote.io/./data/manual/aspx_lowercase.txt" -O ~/
 wget "https://wordlists-cdn.assetnote.io/./data/manual/html.txt" -O ~/wordlists/assetnote/html.txt
 wget "https://wordlists-cdn.assetnote.io/./data/manual/dot_filenames.txt" -O ~/wordlists/assetnote/dot_filenames.txt
 wget "https://wordlists-cdn.assetnote.io/./data/manual/phpmillion.txt" -O ~/wordlists/assetnote/phpmillion.txt
+wget "https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallmicro.txt" -O ~/wordlists/onelistforallmicro.txt
+wget "https://raw.githubusercontent.com/six2dez/OneListForAll/main/onelistforallshort.txt" -O ~/wordlists/onelistforallshort.txt
 } > /dev/null 2>&1
 
 echo ""
